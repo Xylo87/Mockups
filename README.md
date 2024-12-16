@@ -1,2 +1,2 @@
 # Mockups
-Moockup Training
+Mockup Training
